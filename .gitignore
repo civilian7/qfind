@@ -1,0 +1,10 @@
+/target/
+/bench-data/
+/bench-results.json
+/bench-version-data/
+/bench-version-results.json
+/bench-regression-results.json
+/bench-regression-followup.json
+/bench-regression-storage.json
+/scripts/__pycache__/
+
